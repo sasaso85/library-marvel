@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.challenge.marvel</groupId>
-	<artifactId>library-marvel</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>library-marvel</name>
+	<artifactId>marvel-library</artifactId>
+	<version>0.0.1</version>
+	<name>marvel-library</name>
 	<description>Project for calling a Marvel REST API</description>
 	<properties>
 		<java.version>11</java.version>
